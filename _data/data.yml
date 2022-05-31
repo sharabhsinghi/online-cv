@@ -7,193 +7,115 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
+    name: Sharabh Partap Singhi
     tagline: Full Stack Developer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
-    gitlab:
-    bitbucket:
-    twitter: '@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
+    email: sharabhsinghi@gmail.com
+    phone: +91 9814521031
+    linkedin: linkedin.com/in/sharabhps/
+    github: github.com/sharabhsinghi
 
     languages:
       - idiom: English
+        level: Professional
+
+      - idiom: Hindi
+        level: Professional
+
+      - idiom: Punjabi
         level: Native
-
-      - idiom: French
-        level: Professional
-
-      - idiom: Spanish
-        level: Professional
         
     interests:
-      - item: Climbing
+      - item: Solving Puzzles
         link:
 
-      - item: Snowboarding
+      - item: Table tennis
         link:
 
-      - item: Cooking
+      - item: Swimming
         link:
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-
-      Second paragraph if required.
+      Persistent professional equipped with 6+ years of comprehensive experience in Full stack development. 
+      Provides strong technical direction across multiple projects. Responsible and enthusiastic team player eager to learn new technologies and ready to contribute to company success.
 
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
+    - degree: Masters of Science - Data Science
+      university: University of Arizona - Online via Upgrad
+      time: March 2022 - Current
 
-          - Bullet point
-          - Bullet point 
-
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-
-          - Bullet point
-          - Bullet point 
+    - degree: Bachelors of Engineering - Computer Science
+      university: Chitkara University - Baddi, Himachal Pradesh
+      time: August 2011 - May 2015
 
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-
-          - Bullet point
-          - Bullet point 
-
     - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+      time: Feb 2020 - Present
+      company: ZS Associates, Pune
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+          - Trained and mentored junior developers and engineers and worked to improve overall team performance.
+          - Worked with product manager for requirement analysis and features prioritization.
+          - Worked with project architect for technical feasibility solutions for new features and improvements.
+          - Developed Python APIs on Flask (server based) and AWS Lambda (serverless) architectures.
+          - Developed UI with Angular/AngularJS
+          - Worked on CI/CD pipelines for code analysis, running unit tests and deployment of code.
+          - Took technical interviews for recruitment in the track.
+          - Conducted training sessions to educate co-workers on architectural implementations in the projects.
 
-          - Bullet point
-          - Bullet point
 
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+    - role: Data Specialist
+      time: June 2018 - Jan 2020
+      company: Gramener, Mumbai
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+          - Extracted data for transformation from AWS Redshift database.
+          - Transformed data according to business requirements and calculated metrics for all the dashboards.
+          - Implemented RESTful APIs with python and hosted on a Flask server.
+          - Web app UI developed using Gramener's proprietary framework Gramex.
+          - Created Data Visualization charts and graphs in a web UI and mobile app.
+          - Wrote Unit and Integration test cases.
+          - Created manuals and conducted training sessions to educate co-workers on application architecture.
 
-          - Bullet point
-          - Bullet point
-
-projects:
-    title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-
-    assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-
-    papers:
-      - title: The Art of Computer Programming
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+    - role: Senior Systems Engineer
+      time: Nov 2015 - June 2018
+      company: Infosys, Bangalore
+      details: |
+          - Developed Python REST APIs and microservices in a Linux environment.
+          - Developed an execution Environment to run a job in Docker containers and VMs.
+          - Designed and implemented database in Postgresql.
+          - Developed Frontend with Django framework.
+          - Implemented a reverse proxy server using Nginx.
+          - Setup and maintenance of account level Git server using GitLab.
+          - Setup CI/CD for the project using Teamcity.
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
-
-      - name: Javascript & jQuery
-        level: 98%
+      - name: Python
+        level: 95%
 
       - name: Angular
-        level: 98%
+        level: 86%
+ 
+      - name: PostgreSQL
+        level: 90%
+        
+      - name: Cloud - AWS
+        level: 68%
+      
+      - name: Javascript & jQuery
+        level: 92%
 
       - name: HTML5 & CSS
         level: 95%
 
-      - name: Ruby on Rails
-        level: 85%
+      - name: Tableau
+        level: 50%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: Teamcity
+        level: 75%
 
-footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
