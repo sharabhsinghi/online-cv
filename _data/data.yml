@@ -3,7 +3,7 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
@@ -96,26 +96,26 @@ skills:
 
     toolset:
       - name: Python
-        level: 95%
+        level: 85%
 
       - name: Angular
-        level: 86%
+        level: 76%
  
       - name: PostgreSQL
-        level: 90%
+        level: 80%
         
       - name: Cloud - AWS
-        level: 68%
+        level: 58%
       
       - name: Javascript & jQuery
-        level: 92%
+        level: 82%
 
       - name: HTML5 & CSS
-        level: 95%
+        level: 85%
 
       - name: Tableau
         level: 50%
 
       - name: Teamcity
-        level: 75%
+        level: 65%
 
